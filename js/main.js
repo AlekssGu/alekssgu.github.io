@@ -23,7 +23,7 @@ $(document).ready(function(){
     }
 
     var windowLocation = window.location.pathname.substr(1);
-    if(windowLocation.toLowerCase().indexOf("leduslauzis") >= 0) {
+    if(windowLocation.toLowerCase().indexOf("icebreaker") >= 0) {
         var questionType = $("#questionType").val();
         $("#question").html(getQuestion(questionType));
     }
