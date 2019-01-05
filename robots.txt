@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: */smile.html
+Disallow: */icebreaker.html
+Sitemap: http://gusevs.lv/sitemap.xml
